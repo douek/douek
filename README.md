@@ -1,15 +1,5 @@
 ### Hi there 👋 :fish: :heart: :computer: 
-## Welcome to my Github repository!
-I am a professional software engineer, with a background in product management.
-I love coding, solving problems, and building products.
-
-I am a maintainer of qarax! qarax aims to be a firecracker (microVM) orchestrator, it is in its very early stages of development.:fireworks::fireworks:
-
-I am actively learning new technologies and programming languages. You can find here some projects in Vue.js, Node.js, Django, python :snake: and more.
-
-Part of the she codes; next generation program team.:woman::girl::computer: 
-she codes; is a community of women established with the goal of reaching 50% women software developers in the Israeli high-tech scene.
-
+## Welcome to my Github profile!
 <!--
 **douek/douek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
